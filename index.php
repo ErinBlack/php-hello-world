@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>My First PHP Page</h1>
+<h1>Hello World PHP Page</h1>
 <?php
 // This is a single line comment in PHP
 
