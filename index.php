@@ -10,7 +10,11 @@ This is a multiple line comment
 for using larger text
 
 */
-echo "My first PHP script!";
+//
+$testVariable = nl2br ("This is just a test variable \n" );
+
+echo $testVariable ;
+echo "Hello World!";
 ?>
 
 </body>
